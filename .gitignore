@@ -1,0 +1,13 @@
+/*
+!/wp-content
+/wp-content/languages
+/wp-content/plugins
+/wp-content/upgrade
+/wp-content/uploads
+/wp-content/themes/*
+!/wp-content/themes/ecv
+/wp-content/themes/ecv/assets/scss/weaver
+
+!.gitignore
+!docker-compose.yml
+!README.md

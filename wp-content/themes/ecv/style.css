@@ -1,0 +1,30 @@
+.btn {
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: black;
+  border: 2px solid;
+}
+.btn.btn-primary {
+  color: white;
+  background-color: #da175b;
+  border-color: #da175b;
+}
+.btn.btn-secondary {
+  color: white;
+  background-color: #69eb55;
+  border-color: #69eb55;
+}
+.btn.btn-grey {
+  color: white;
+  background-color: gray;
+}
+.btn .text {
+  text-transform: uppercase;
+}
+.navbar {
+  background-color: #da175b;
+}
+.title {
+  color: #da175b;
+  font-family: 'Open Sans', sans-serif;
+}
